@@ -1,2 +1,2 @@
 # Python_Basics
-Basics of Python Language
+This repository is to help learn and serve as reference material for python coding
